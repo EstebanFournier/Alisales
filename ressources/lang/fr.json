@@ -1,0 +1,17 @@
+{
+    "Dashboard": "Tableau de bord",
+    "Customers": "Clients",
+    "Name": "Nom",
+    "Address": "Adresse",
+    "Postal code": "Code postal",
+    "City": "Ville",
+    "Email": "Email",
+    "Website": "Site",
+    "Update": "Modifier",
+    "Orders": "Commandes",
+    "Products": "Produits",
+    "Amount": "Montant",
+    "Amount VTA": "Montant TVA",
+    "Add a customer": "Ajouter un client",
+    "Add an order": "Ajouter une commande"
+}
